@@ -1,7 +1,7 @@
 
 # Day 1
 
-Installing and understanding:
+### Installing and understanding:
 
 - Git is a distributed version control system - it helps developers keep track of code changes as well as collaborate on code.
 
@@ -14,3 +14,5 @@ Installing and understanding:
 - ESLint is a VSC extension that helps you find and fix problems with your JavaScript code.
 
 - GitGraph is a VSC extension that creates a visual representation of commit history and branch relationships.
+
+### Git Actions
