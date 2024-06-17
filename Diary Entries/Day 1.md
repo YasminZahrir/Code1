@@ -14,3 +14,9 @@ Installing and understanding:
 - ESLint is a VSC extension that helps you find and fix problems with your JavaScript code.
 
 - GitGraph is a VSC extension that creates a visual representation of commit history and branch relationships.
+
+
+Repository
+Commit
+Branch 
+Remote
