@@ -15,4 +15,13 @@
 
 - GitGraph is a VSC extension that creates a visual representation of commit history and branch relationships.
 
+
+
 ### Git Actions
+=======
+
+Repository
+Commit
+Branch 
+Remote
+
