@@ -11,4 +11,4 @@ A markup language is one that is designed for defining and presenting text. With
 
 Syntax is the structure of language. Elements of syntax include word order and sentence structure, which can help reveal the function of an unknown word. Semantics is the meaning of individual words. If one word is unknown, the meanings of surrounding words can give clues to the word's probable meaning.
 
-![image](https://github.com/YasminZahrir/Code1/assets/173050635/37c45a8c-688d-417e-a275-47739f627855)
+![Hundreds](https://github.com/YasminZahrir/Code1/assets/173050635/471553f9-118c-4760-bbaf-1c0938d81fcc)
