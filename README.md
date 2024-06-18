@@ -4,4 +4,4 @@
 Welcome to my Code1 repository! This is a change I made in Visual Code Studio.
 
 Table of Contents:
-    [Tag Demonstration](Tags.html)
+* [Tag Demonstration](Tags.html)
