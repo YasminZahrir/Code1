@@ -14,4 +14,5 @@ Syntax is the structure of language. Elements of syntax include word order and s
 
 ## Editing websites:
 
-![Hundreds1](https://github.com/YasminZahrir/Code1/assets/173050635/cc59adad-fcd8-42f1-93f6-44fef8b6871d)
+![Hundreds1 (2)](https://github.com/YasminZahrir/Code1/assets/173050635/ce0eb096-ade0-4f7e-a64b-85f4e36affa2)
+
