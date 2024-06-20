@@ -9,11 +9,11 @@ Table of Contents:
 
 <div class="dropdown">
     <button>HubSpot Resources</button>
-</div>
-<div class="dropdown-content">
+    <div class="dropdown-content">
     <a rel="noopener" target="_blank" href="https://blog.hubspot.com/">Blog</a>
     <a rel="noopener" target="_blank" href="https://academy.hubspot.com/">Academy</a>
     <a rel="noopener" target="_blank" href="https://www.youtube.com/user/hubspot">YouTube</a>
+</div>
 </div>
 
 <script>
