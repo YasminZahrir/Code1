@@ -9,6 +9,6 @@ Table of Contents:
 
 <label for="Diary-Entries">Diary Entries:</label>
 <select name="Diary-Entries" id="Diary-Entries">
-    <option value="Day1">Day 1</option>
+    <option value="Day1"><a href="../Code1/Diary Entries/Day1">Day 1</a></option>
     <option value="Day2">Day 2</option>
 </select>
