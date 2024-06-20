@@ -1,1 +1,1 @@
-<a href="OnGod">Please work</a>
+[Please](OnGod.html)
