@@ -9,5 +9,5 @@ Table of Contents:
 
 <br>Diary Entries:
 
-* [Day 1](../Code1/Diary%20Entries/Day1.md)
+* <a href="../Code1/Diary Entries/Day1.md">Day 1</a>
 * [Day 2](../Code1/Diary%20Entries/Day2.md)
