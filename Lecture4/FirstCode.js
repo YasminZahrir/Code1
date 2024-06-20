@@ -1,2 +1,2 @@
 "use strict";
-console.log("What is up party people! This be typescript fun.");
+console.log("What is up party peopleeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! This be typescript fun.");
