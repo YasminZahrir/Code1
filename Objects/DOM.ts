@@ -11,7 +11,7 @@ while (a < b) {
     thing.style.top = Math.random() * 1000 + "px";
     thing.style.left = Math.random() * 1000 + "px";
     thing.style.fontSize = Math.random() * 100 + "px";
-    thing.addEventListener('click', function() {
+    thing.addEventListener('click', ()=> {
         thing.textContent = word[Math.floor(Math.random() * word.length)];
         thing.style.color = `rgb(${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)})`;
         thing.style.top = Math.random() * window.innerHeight + "px";
