@@ -1,6 +1,6 @@
 "use strict";
 let a = 0;
-let b = Math.random() * 15;
+let b = Math.random() * 20;
 let word = ["Coke", "Meth", "Molly", "Speed"];
 while (a < b) {
     let thing = document.createElement("div");
@@ -12,5 +12,12 @@ while (a < b) {
     thing.style.top = Math.random() * 1000 + "px";
     thing.style.left = Math.random() * 1000 + "px";
     thing.style.fontSize = Math.random() * 100 + "px";
+    thing.addEventListener('click', () => {
+        thing.textContent = word[Math.floor(Math.random() * word.length)];
+        thing.style.color = "red";
+        thing.style.top = Math.random() * window.innerHeight + "px";
+        thing.style.left = Math.random() * window.innerWidth + "px";
+        thing.style.fontSize = Math.random() * 100 + "px";
+    });
     a = a + 1;
 }

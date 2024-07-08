@@ -13,7 +13,7 @@ while (a < b) {
     thing.style.fontSize = Math.random() * 100 + "px";
     thing.addEventListener('click', ()=> {
         thing.textContent = word[Math.floor(Math.random() * word.length)];
-        thing.style.color = `rgb(${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)}, ${Math.floor(Math.random() * 256)})`;
+        thing.style.color = "red";
         thing.style.top = Math.random() * window.innerHeight + "px";
         thing.style.left = Math.random() * window.innerWidth + "px";
         thing.style.fontSize = Math.random() * 100 + "px";
